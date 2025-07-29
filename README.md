@@ -11,24 +11,30 @@
 
 ## 🛠️ Skills
 
+Frontend: React.js | React Native | TypeScript | Flutter
+Backend: Node.js | Express.js | PHP | Java
+Database: SQL | PostgreSQL (pgAdmin)
+Tools: Git | Firebase | Apache Server
+
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
-### 🔹 All-in-One Billing Software
-Desktop billing & invoicing software built with **VB.NET + SQL Server**  
-- Manages inventory, discounts, customer/supplier details  
-- Generates invoices and receipts  
-- Designed for any type of industry  
+> ### 💻 All-in-One Billing Software  
+> Desktop billing & invoicing software built with **VB.NET + SQL Server**  
+> - Inventory, discounts, and reporting  
+> - Customer & supplier management  
+> - Invoice & receipt generation  
+>
+> ---
 
----
+> ### 🛒 B-Trac Billing Software  
+> Billing system built with **PHP, Java, Apache Server, SQL**  
+> - Multi-user support  
+> - Role-based access control  
+> - Real-time reports  
 
-### 🔹 B-Trac Billing Software
-Billing system built with **PHP, Java, Apache Server, and SQL**  
-- Multi-user support  
-- Role-based access control  
-- Real-time reports and billing  
 
 ---
 
