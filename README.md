@@ -8,9 +8,9 @@ I enjoy solving real-world problems using modern technologies and creating effic
 ## 🛠️ Skills  
 
 - **Frontend**: React.js, React Native, TypeScript, Flutter  
-- **Backend**: Node.js, Express.js, PHP, Java  
+- **Backend**: Node.js, Express.js
 - **Database**: SQL, PostgreSQL (pgAdmin)  
-- **Other Tools**: Apache Server, Git, Firebase  
+- **Other Tools**: Git, Firebase  
 
 ---
 
@@ -47,12 +47,12 @@ A billing system developed using **PHP, Java, Apache Server, and SQL**.
 - Email: shivrajsenu123@gmail.com  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 ![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaraj260&show_icons=true&theme=radical)  
 
 ## 🔥 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj260&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj260&layout=compact&theme=radical)  -->
 
 ---
 ✨ Always open to collaborations and learning new technologies!
