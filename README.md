@@ -42,14 +42,14 @@
 - Skilled in **end-to-end development**: designing → coding → deploying.  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaraj260&show_icons=false&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj260&layout=compact&theme=tokyonight)  
 
 ---
-
+-->
 ## 📫 Connect with Me  
 
 - LinkedIn: [linkedin.com/in/shivaraju-n-564091243](https://www.linkedin.com/in/shivaraju-n-564091243/)  
