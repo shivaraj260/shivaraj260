@@ -47,12 +47,12 @@ A billing system developed using **PHP, Java, Apache Server, and SQL**.
 - Experience in **designing, developing, and deploying** scalable applications.  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 | ![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaraj260&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaraj260&layout=compact&theme=tokyonight) |
 |---|---|
-
+-->
 ---
 
 ## 📫 Connect with Me  
